@@ -10,10 +10,12 @@ function App() {
       <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
       <Navbar/>
       <Hero/>
+      <Tech/>
+
       </div>
       <About/>
       <Experience/>
-      <Tech/>
+      {/* <Tech/> */}
       <Works/>
       <Feedbacks/>
 

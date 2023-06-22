@@ -9,16 +9,16 @@ import {
     css,
     reactjs,
     redux,
+    next,
+    postgre,
     tailwind,
     nodejs,
     mongodb,
     git,
     figma,
     docker,
-    meta,
     henry,
-    tesla,
-    shopify,
+    coder,
     carrent,
     jobit,
     tripguide,
@@ -109,9 +109,13 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "next",
+      icon: next,
     },
+    {
+      name: "postgre",
+      icon: postgre
+    }
   ];
   
   const experiences = [
@@ -142,29 +146,28 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Full Stack Developer [Academic] Tech E-Commerce",
+      company_name: "Soy Henry",
+      icon: henry,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "November 2022 - December 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participation in an agile development team with one-week sprints, presenting to a Product Owner progress on the development of a complete E-commerce app with design and development of the following features: Basic e-commerce features(product CRUD, auth, catalog, checkout, etc)",
+        "Payment gateway integration (Stripe).",
+        "Sending transactional emails",
+        "Management of shopping cart and product orders",
+        "User administration and password management"
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Backend Tutor",
+      company_name: "Coderhouse",
+      icon: coder,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Backend tutor at Coderhouse, where I teach Node.js, MongoDB, JS and Asynchronous JS to online students.",
+        "Tasks include: taking attendance, solving doubts, answering queries by chat, correcting challenges and deliveries, and monitoring learning.",
       ],
     },
   ];

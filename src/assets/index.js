@@ -21,12 +21,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import next from "./tech/next.png";
+import postgre from "./tech/postgresql.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import henry from "./company/henry.png"
+import coder from "./company/coderhouseLogo.webp"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -55,11 +54,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
+  next,
+  postgre,
   henry,
-  tesla,
+  coder,
   carrent,
   jobit,
   tripguide,
