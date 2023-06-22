@@ -26,6 +26,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import henry from "./company/henry.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -57,6 +58,7 @@ export {
   meta,
   shopify,
   starbucks,
+  henry,
   tesla,
   carrent,
   jobit,
