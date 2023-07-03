@@ -27,11 +27,13 @@ import postgre from "./tech/postgresql.png"
 import henry from "./company/henry.png"
 import coder from "./company/coderhouseLogo.webp"
 
-import carrent from "./carrent.png";
+import techecommerce from "./techecommerce.png";
+import recipes from "./recipes.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  techecommerce,
   jblogo,
   logo,
   backend,
@@ -58,7 +60,7 @@ export {
   postgre,
   henry,
   coder,
-  carrent,
+  recipes,
   jobit,
   tripguide,
 };

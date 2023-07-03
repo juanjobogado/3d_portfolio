@@ -17,7 +17,7 @@ function App() {
       <Experience/>
       {/* <Tech/> */}
       <Works/>
-      <Feedbacks/>
+      {/* <Feedbacks/> */}
 
       <div className="relativo z-0">
       <Contact/>
