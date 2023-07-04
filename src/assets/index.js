@@ -32,7 +32,12 @@ import recipes from "./recipes.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import programming from "./programming.jpg";
+import meme from "./meme.png"
+
 export {
+  meme,
+  programming,
   techecommerce,
   jblogo,
   logo,
